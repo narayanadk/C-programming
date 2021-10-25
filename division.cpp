@@ -26,7 +26,7 @@ int main()
     printf("enter days\t");
 	scanf("%d",&day);
 	int seconds=day*24*60*60;
-	printf("%d days = %d Seconds",seconds);
+	printf("%d days = %d Seconds",day,seconds);
 	return 0;
 
 }
