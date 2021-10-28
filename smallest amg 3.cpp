@@ -10,11 +10,11 @@ int main()
 	printf("%d is the smallest number",a);
 	else if(b<c)
 	printf("%d is smallest number",b);
-else 
+	else 
 	printf("%d is smallest number",c);
-}
-else 
-printf("all numbers are equal");
+	}
+	else 
+	printf("all numbers are equal");
 	return 0;
 	
 }
