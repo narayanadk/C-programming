@@ -10,6 +10,6 @@ int main()
 		s=s*r;
 		n=n/10;
 	}
-	printf("the sum of digits is %d",s);
+	printf("the multiplication digits is %d",s);
 	return 0;
 }
