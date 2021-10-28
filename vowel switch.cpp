@@ -1,10 +1,10 @@
 #include<stdio.h>
 int main()
 {
-	char c;
+	char character;
 	printf("enter any character\t");
-	scanf("%c",&c);
-	switch(c)
+	scanf("%c",&character);
+	switch(character)
 	{
 		case 'a':
 		case 'A':
