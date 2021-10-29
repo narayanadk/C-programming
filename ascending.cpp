@@ -19,7 +19,6 @@ int main()
 				temp=a[j];
 				a[j]=a[i];
 				a[i]=temp;
-			
 			}
 		}
 	}
