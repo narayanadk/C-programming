@@ -1,10 +1,10 @@
 //Write a program to read age of person  and find out the category among following according to age.
 //           category                                         age
-//            child                                            0 to 12
-//            teenage                                         13 to 19
+//           child                                           0 to 12
+//           teenage                                         13 to 19
 //           adult life                                      20 to 30
-//           mature life                                   31 to 50
-//          old age                                         over 50
+//           mature life                                     31 to 50
+//           old age                                         over 50
 
 #include<stdio.h>
 int main()
@@ -31,5 +31,3 @@ else
 printf("invalid entry");
 return 0;
 }
-
-
